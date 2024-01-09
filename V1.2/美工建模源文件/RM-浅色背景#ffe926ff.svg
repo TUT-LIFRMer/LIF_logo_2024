@@ -7,7 +7,7 @@
    width="1440"
    height="1440"
    viewBox="0 0 1440 1440"
-   sodipodi:docname="RM#ffe926ff.svg"
+   sodipodi:docname="RM-浅色背景#ffe926ff.svg"
    inkscape:version="1.3.2 (091e20e, 2023-11-25)"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
@@ -294,8 +294,8 @@
      inkscape:pagecheckerboard="0"
      inkscape:deskcolor="#505050"
      inkscape:zoom="0.14323452"
-     inkscape:cx="366.53176"
-     inkscape:cy="-230.39139"
+     inkscape:cx="373.51331"
+     inkscape:cy="-502.67212"
      inkscape:window-width="1440"
      inkscape:window-height="773"
      inkscape:window-x="0"
@@ -322,16 +322,16 @@
     <text
        xml:space="preserve"
        id="text58"
-       style="font-size:133.333px;white-space:pre;shape-inside:url(#rect58);display:inline;fill:#ffe926;fill-opacity:1"
+       style="font-size:133.333px;white-space:pre;shape-inside:url(#rect58);display:inline;fill:#ffe926;fill-opacity:1;stroke:none"
        transform="translate(-127.16818,-6.6741911)"
        inkscape:label="title"><tspan
          x="194.70312"
          y="180.28826"
-         id="tspan5"><tspan
+         id="tspan4"><tspan
            style="font-family:Pirulen;-inkscape-font-specification:Pirulen"
-           id="tspan2">Robomaster</tspan></tspan></text>
+           id="tspan3">Robomaster</tspan></tspan></text>
     <rect
-       style="fill:#393939;fill-opacity:1"
+       style="fill:#393939;fill-opacity:1;stroke:none"
        id="rect1-4"
        width="1440"
        height="1"
